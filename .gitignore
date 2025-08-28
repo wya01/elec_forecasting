@@ -1,0 +1,14 @@
+.ipynb_checkpoints/
+data/
+experiments/
+models_output/
+comparison_plots*/
+__pycache__/
+*.pkl
+*.h5
+*.csv
+*.log
+*.pyc
+.DS_Store
+.vscode/
+.idea/

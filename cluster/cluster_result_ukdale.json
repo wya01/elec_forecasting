@@ -1,0 +1,13 @@
+{
+  "cluster_2": [
+    "building1"
+  ],
+  "cluster_0": [
+    "building2",
+    "building4",
+    "building5"
+  ],
+  "cluster_1": [
+    "building3"
+  ]
+}

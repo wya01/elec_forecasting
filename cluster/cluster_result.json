@@ -1,0 +1,28 @@
+{
+  "cluster_1": [
+    "H10_Wh",
+    "H11_Wh",
+    "H18_Wh",
+    "H1_Wh",
+    "H20_Wh",
+    "H4_Wh",
+    "H5_Wh",
+    "H7_Wh",
+    "H9_Wh"
+  ],
+  "cluster_2": [
+    "H12_Wh",
+    "H13_Wh",
+    "H16_Wh",
+    "H17_Wh",
+    "H19_Wh"
+  ],
+  "cluster_0": [
+    "H14_Wh",
+    "H15_Wh",
+    "H2_Wh",
+    "H3_Wh",
+    "H6_Wh",
+    "H8_Wh"
+  ]
+}

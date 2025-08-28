@@ -6,7 +6,7 @@ The models are LSTM-based and extended with temporal (hour-of-day, day-of-week) 
 ---
 
 ## Repository Structure
-
+```
 elec_forecasting/
  ├── cluster/            # C-FL scripts (clustering, client definitions, postprocessing)
  ├── federated/          # FL scripts (client definitions, simulation, postprocessing)
@@ -19,6 +19,7 @@ elec_forecasting/
  │   ├── cfl_t_30min_30min.ipynb
  │   └── cfl_tw_30min_30min.ipynb
  └── README.md
+```
 
 ## Getting Started
 
